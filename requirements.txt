@@ -1,0 +1,8 @@
+kagglehub
+unsloth 
+transformers
+accelerate 
+bitsandbytes 
+peft 
+datasets 
+trl

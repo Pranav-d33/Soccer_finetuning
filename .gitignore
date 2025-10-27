@@ -1,0 +1,4 @@
+data/
+football_train.jsonl
+football_val.jsonl
+venv/
